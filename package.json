@@ -41,6 +41,6 @@
     "elm-webpack-loader": "^7.0.1"
   },
   "dependencies": {
-    "elm-hot": "^1.1.6"
+    "elm-hot": "git://github.com/MethodGrab/elm-hot.git#54e4ded3e48c6afaa8e46ae12fb4c1bc7f66954d"
   }
 }
